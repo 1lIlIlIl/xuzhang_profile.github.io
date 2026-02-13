@@ -1,7 +1,6 @@
 # Personal Research & Portfolio Website
 
-A minimalist, architecture-inspired personal website showcasing research in flexible electronics and neuromorphic computing. Designed with influences from Virgil Abloh, Matthew Williams, and Maison Margiela.
-
+A minimalist, architecture-inspired personal website showcasing research in flexible electronics and neuromorphic computing. 
 ## Features
 
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
