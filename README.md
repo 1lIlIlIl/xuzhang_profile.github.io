@@ -2,14 +2,6 @@
 
 A minimalist, architecture-inspired personal website showcasing research in flexible electronics and neuromorphic computing. Designed with influences from Virgil Abloh, Matthew Williams, and Maison Margiela.
 
-## Design Philosophy
-
-This site combines several contemporary design principles:
-
-- **Virgil Abloh**: Architectural simplicity, geometric forms, bold typography, strategic use of whitespace
-- **Matthew Williams**: Refined detail, structured minimalism, precision craftsmanship
-- **Maison Margiela**: Deconstructed elements, layered composition, subtle luxury through restraint
-
 ## Features
 
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
