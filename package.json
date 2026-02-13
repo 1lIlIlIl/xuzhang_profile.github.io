@@ -1,0 +1,16 @@
+{
+  "name": "Zhang Xu - Personal Research Website",
+  "version": "1.0.0",
+  "description": "Minimalist personal portfolio showcasing research in flexible electronics and neuromorphic computing",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": ["portfolio", "research", "flexible-electronics", "neuromorphic-computing"],
+  "author": "Xu Zhang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangxu/zhangxu.github.io"
+  }
+}

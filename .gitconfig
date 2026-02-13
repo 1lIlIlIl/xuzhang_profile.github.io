@@ -1,0 +1,10 @@
+[core]
+	autocrlf = true
+	safecrlf = true
+
+[user]
+	name = Zhang Xu
+	email = mail_zhangxu@126.com
+
+[init]
+	defaultBranch = main
